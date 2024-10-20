@@ -1,0 +1,15 @@
+Question 1: &
+Question 2: ~
+Question 3: cd
+Question 4: TP1/ex1.c TP1/ex2.c TP2 TP3 
+Question 5: mv ~/Documents/TP/TP1/ex2.c TP2 & mv ~/Images/IMG216.jpg TP2
+Question 6: Changer les droits d'acces au fichier a.out.
+Question 7: 1 
+Question 8: --Wall
+Question 9: On cherche a savoir le nombre de processus liés à l'application evince sont en cours d'execution
+Question 10: chmod g+r,g+w file1
+Question 11 3224931 Non
+	    3284840 Non
+	    4035745 Non
+	    4210027 Non
+	    3673118 Non
